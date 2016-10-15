@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanDictCrawler", "UrbanDi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleTester", "ConsoleTester\ConsoleTester.csproj", "{8AD0B30B-FE02-4EC7-AB17-BDA44FCFBD15}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrbanToApple", "UrbanToApple\UrbanToApple.csproj", "{4B4FC497-8C49-414A-A6DD-32DA772B244D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +21,9 @@ Global
 		{8AD0B30B-FE02-4EC7-AB17-BDA44FCFBD15}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8AD0B30B-FE02-4EC7-AB17-BDA44FCFBD15}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8AD0B30B-FE02-4EC7-AB17-BDA44FCFBD15}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B4FC497-8C49-414A-A6DD-32DA772B244D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B4FC497-8C49-414A-A6DD-32DA772B244D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B4FC497-8C49-414A-A6DD-32DA772B244D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B4FC497-8C49-414A-A6DD-32DA772B244D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
