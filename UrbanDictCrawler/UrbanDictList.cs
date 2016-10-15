@@ -6,30 +6,30 @@ namespace UrbanDictCrawler
 	public class UrbanDictList
 	{
 		[JsonProperty(PropertyName = "definition")]
-		public string definition { get; set; }
+		public string Definition { get; set; }
 
 		[JsonProperty(PropertyName = "permalink")]
-		public string permalink { get; set; }
+		public string Permalink { get; set; }
 
 		[JsonProperty(PropertyName = "thumbs_up")]
-		public int thumbs_up { get; set; }
+		public int ThumbsUpCount { get; set; }
 
 		[JsonProperty(PropertyName = "author")]
-		public string author { get; set; }
+		public string Author { get; set; }
 
 		[JsonProperty(PropertyName = "word")]
-		public string word { get; set; }
+		public string Word { get; set; }
 
 		[JsonProperty(PropertyName = "defid")]
-		public string defid { get; set; }
+		public string Defid { get; set; }
 
 		[JsonProperty(PropertyName = "current_vote")]
-		public string current_vote { get; set; }
+		public string CurrentVote { get; set; }
 
 		[JsonProperty(PropertyName = "example")]
-		public string example { get; set; }
+		public string Example { get; set; }
 
 		[JsonProperty(PropertyName = "thumbs_down")]
-		public int thumbs_down { get; set; }
+		public int ThumbsDownCount { get; set; }
 	}
 }
